@@ -1,0 +1,7 @@
+﻿  1203~1204.cpp
+  1210~1211.cpp
+  Archer.cpp
+  코드를 생성하고 있습니다...
+C:\Users\devil\source\repos\ConsoleApplication1\ConsoleApplication1\Archer.cpp(34): warning C4715: 'Archer::SetHP': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\devil\source\repos\ConsoleApplication1\ConsoleApplication1\Archer.cpp(52): warning C4715: 'Archer::SetPower': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ConsoleApplication1.vcxproj -> C:\Users\devil\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
